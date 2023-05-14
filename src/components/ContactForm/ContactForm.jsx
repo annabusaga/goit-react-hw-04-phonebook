@@ -13,6 +13,7 @@ const ContactForm = ({ onSubmit, addContact }) => {
         break;
       case 'number':
         setNumber(event.target.value);
+        break;
 
       default:
         break;

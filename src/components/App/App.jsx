@@ -9,6 +9,9 @@ const App = () => {
   const [contacts, setContacts] = useState([]);
   const [filter, setFilter] = useState('');
 
+
+
+  
   // під капотом useState([]);
 
   //   useState([2]);
